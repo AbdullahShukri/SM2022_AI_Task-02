@@ -2,11 +2,11 @@
 This repo aims to describe step by step tutorial on arduino robot arm with ROS package in Ubuntu 20.04
 <br>
 
-<pr>
+
 ### Table of Contents
 * [1- Installing-ROS](#1-Installing-ROS)
 * [2- Installing package arduino robot arm](#2-Installing-package-arduino-robot-arm)
-</pr>
+
 
 <br>
 
