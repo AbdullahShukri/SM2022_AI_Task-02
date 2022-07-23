@@ -8,7 +8,7 @@ This repo aims to describe step by step tutorial on arduino robot arm with ROS p
 * [Concluion](#concluion)
 <br>
 
-## Installation-ROS
+## Installation ROS
 ## Installing package arduino robot arm
 ## Testing
 ## Concluion
