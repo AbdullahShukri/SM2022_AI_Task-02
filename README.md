@@ -85,7 +85,7 @@ https://youtu.be/fr6TXEd2rXI?t=513
 
 
 ### 2.3 Testing
-Before proceeding, if you're using ROS Noetic make sure that `roscore` is running first:
+Controlling the robot arm by joint_state_publisher:
 
 ```bash
 $ roslaunch robot_arm_pkg check_motors.launch
