@@ -3,7 +3,7 @@ This repo aims to describe step by step tutorial on arduino robot arm with ROS p
 <br>
 
 <br>
-https://www.trossenrobotics.com/Shared/Images/Product/WidowX-200-Robot-Arm/Img0108.jpg
+![image](https://user-images.githubusercontent.com/101488769/180624085-1a872add-92b1-466c-925b-e148b34c167b.png)
 <br>
 
 ### Table of Contents
