@@ -3,7 +3,7 @@ This repo aims to describe step by step tutorial on arduino robot arm with ROS p
 <br>
 
 <br>
-![01](https://user-images.githubusercontent.com/101488769/180623704-705bf812-0a74-46ce-9173-1fe0f3b90ccf.jpg)
+https://www.generationrobots.com/en/403856-pincherx-150-robot-arm.html
 <br>
 
 ### Table of Contents
