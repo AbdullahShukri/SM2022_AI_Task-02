@@ -3,7 +3,7 @@ This repo aims to describe step by step tutorial on arduino robot arm with ROS p
 <br>
 
 <br>
-![01](https://user-images.githubusercontent.com/101488769/180623999-fcee2608-4929-4ba9-932f-19a457785f79.png)
+![01](https://user-images.githubusercontent.com/101488769/180624036-22349a28-e887-492a-a094-67fb2ce3d0c4.jpg)
 <br>
 
 ### Table of Contents
