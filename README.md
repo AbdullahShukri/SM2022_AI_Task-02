@@ -98,6 +98,7 @@ https://youtu.be/fr6TXEd2rXI?t=513
 <b> 
 
 ## 2.3 Testing
+ (You may have a look at the _videos folder_ after this section)  
 ### Controlling the robot arm by joint_state_publisher:
 run the line :  
 ```bash
