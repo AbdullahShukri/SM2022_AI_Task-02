@@ -77,7 +77,7 @@ or you may use another command to open the file as a note :
 
 at the end of the (bashrc) file add the follwing line (don't forget to Change "YourOSName") :  
 ```bash
-source/home/YourOSName/catkin_ws/devel/setup.bash
+source /home/YourOSName/catkin_ws/devel/setup.bash
 ```  
  ![image](https://user-images.githubusercontent.com/107868473/180746894-c273994b-7dd8-4da5-a91b-5fce9fa6d588.png)
 
